@@ -1,0 +1,56 @@
+﻿6
+This policy is underwritten by
+
+-- 1 of 4 --
+
+GHc 3,738
+GHc 38 	GHc 57 	GHc 76 	GHc 93
+GHc 5,607 	GHc 7,476 	GHc 9,345
+Total dis:
+GHc 11,214
+Hosp:
+GHc 93/night
+Partial dis:
+GHC 5,607
+Total dis:
+GHc 22,428
+Hosp:
+GHc 187/night
+Partial dis:
+GHC 11,214
+Total dis:
+GHc 33,642
+Hosp:
+GHc 280/night
+Partial dis:
+GHC 16,821
+Total dis:
+GHc 44,856
+Hosp:
+GHc 374/night
+Partial dis:
+GHC 22,428
+GHc 25 	GHc 37 	GHc 51 	GHc 61
+
+-- 2 of 4 --
+
+LAPSED PERIOD
+In the event of death of the insured, the benefits shall be paid to the
+policy holderΓÇÖs legal personal representative (beneficiary).
+A beneficiary may not be registered more than twice.
+The policy will enter a lapsed state after three months of non-payment
+and will be activated after six months
+
+-- 3 of 4 --
+
+within 3 working days
+, Ghana Card
+Either one of the following: Discharge notice,
+Discharge summary sheet, Patients bill,
+Doctor's report (Should indicate date of
+admission and date of discharge),
+Death certificate or a BIMA claims form,
+endorsed by a doctor
+
+-- 4 of 4 --
+

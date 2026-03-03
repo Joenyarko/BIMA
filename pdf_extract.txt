@@ -1,0 +1,16 @@
+
+
+--- ERROR PARSING B-Care Brochure 2026 output Draft 25.02.26 1.pdf ---
+ pdf is not a function
+
+
+--- ERROR PARSING BIMA_B-Health Family_Final.pdf ---
+ pdf is not a function
+
+
+--- ERROR PARSING BIMA_B-Health Single Joint_Final.pdf ---
+ pdf is not a function
+
+
+--- ERROR PARSING BIMA_B-Life Joint_Final.pdf ---
+ pdf is not a function

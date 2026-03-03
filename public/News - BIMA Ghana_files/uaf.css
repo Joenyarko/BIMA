@@ -1,0 +1,52 @@
+				@font-face {
+					font-family: 'tradegothistdstdbold';
+					src: url('/wp-content/uploads/useanyfont/5231TradeGothisTDstdBold.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5231TradeGothisTDstdBold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.tradegothistdstdbold{font-family: 'tradegothistdstdbold' !important;}
+
+						@font-face {
+					font-family: 'gillsansstd';
+					src: url('/wp-content/uploads/useanyfont/5557GillSansStd.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5557GillSansStd.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gillsansstd{font-family: 'gillsansstd' !important;}
+
+						@font-face {
+					font-family: 'gillsansstd-bold';
+					src: url('/wp-content/uploads/useanyfont/499GillSansStd-Bold.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/499GillSansStd-Bold.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gillsansstd-bold{font-family: 'gillsansstd-bold' !important;}
+
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'tradegothistdstdbold' !important;
+				}
+						strong, b{
+					font-family: 'gillsansstd-bold' !important;
+				}
+						.entry-title, body.single-post .entry-title, body.page .entry-title, body.category .entry-title, .widget-title, .site-title, .site-description{
+					font-family: 'tradegothistdstdbold' !important;
+				}
+						.menu-main-menu-container li a, .menu-main-menu-container li span, #menu-main-menu li a, #menu-main-menu li span{
+					font-family: 'tradegothistdstdbold' !important;
+				}
+						body, p, blockquote, li, a, em{
+					font-family: 'gillsansstd' !important;
+				}
+						#top-menu li{
+					font-family: 'tradegothistdstdbold' !important;
+				}
+						#top-menu a{
+					font-family: 'tradegothistdstdbold' !important;
+				}
+						*{
+					font-family: 'gillsansstd' !important;
+				}
+		
