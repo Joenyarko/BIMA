@@ -15,8 +15,6 @@ const Footer = () => {
                             Protecting the future of every family. BIMA is the leading provider of mobile-delivered insurance and health services in emerging markets.
                         </p>
                         <div className="social-links">
-                            <a href="#" aria-label="Facebook"><Facebook size={20} /></a>
-                            <a href="#" aria-label="Twitter"><Twitter size={20} /></a>
                             <a href="https://www.instagram.com/bima_ghana?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><Instagram size={20} /></a>
                             <a href="https://www.youtube.com/channel/UC3xgELNhZqdN9SrsVEkmdIw" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
                                 {/* Custom simple YouTube icon since lucide-react might not have it in all versions, or use an SVG */}
@@ -74,13 +72,6 @@ const Footer = () => {
 
                 <div className="footer-bottom">
                     <p>&copy; {new Date().getFullYear()} BIMA Ghana. All rights reserved.</p>
-                    <div className="footer-legal">
-                        <a href="#">FAQs</a>
-                        <span className="dot">•</span>
-                        <a href="#">Privacy Policy</a>
-                        <span className="dot">•</span>
-                        <a href="#">Terms and Conditions</a>
-                    </div>
                 </div>
             </div>
         </footer>

@@ -12,6 +12,38 @@
     margin-bottom: 3rem;
 }
 
+@media (max-width: 639px) {
+    .footer-grid {
+        text-align: center;
+        gap: 2.5rem;
+    }
+
+    .footer-col {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .social-links {
+        justify-content: center;
+    }
+
+    .footer-links {
+        align-items: center;
+    }
+
+    .contact-item {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 0.5rem;
+    }
+
+    .contact-icon {
+        margin-top: 0;
+    }
+}
+
 @media (min-width: 640px) {
     .footer-grid {
         grid-template-columns: repeat(2, 1fr);

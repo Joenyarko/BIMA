@@ -65,7 +65,6 @@ const HeroCarousel = () => {
                     <div className="carousel-content container">
                         <h1 className="hero-title">{slide.title}</h1>
                         <p className="hero-subtitle">{slide.subtitle}</p>
-                        <button className="btn btn-secondary hero-btn">{slide.cta}</button>
                     </div>
                 </div>
             ))}
