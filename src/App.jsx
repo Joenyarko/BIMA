@@ -8,6 +8,7 @@ import Products from './pages/Products';
 import News from './pages/News';
 import NewsArticle from './pages/NewsArticle';
 import Contact from './pages/Contact';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 
 import './App.css';
 
@@ -24,6 +25,7 @@ function App() {
             <Route path="/news" element={<News />} />
             <Route path="/news/:id" element={<NewsArticle />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           </Routes>
         </main>
         <Footer />

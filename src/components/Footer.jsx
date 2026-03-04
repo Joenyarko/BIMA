@@ -30,6 +30,7 @@ const Footer = () => {
                             <li><Link to="/about">About BIMA</Link></li>
                             <li><Link to="/products">Our Products</Link></li>
                             <li><Link to="/news">News & Awards</Link></li>
+                            <li><Link to="/privacy-policy">Privacy Policy</Link></li>
                             <li><Link to="/contact">Contact Us</Link></li>
                         </ul>
                     </div>
