@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import HeroCarousel from '../components/HeroCarousel';
 
 const Home = () => {
@@ -25,7 +26,7 @@ const Home = () => {
                             <div key={idx} className="glass-panel" style={{ padding: '2rem', textAlign: 'center', transition: 'var(--transition)' }}>
                                 <h3 className="mb-2">{product.title}</h3>
                                 <p className="text-muted mb-3">{product.desc}</p>
-                                <a href={`/products`} className="text-secondary" style={{ fontWeight: '600' }}>Learn more &rarr;</a>
+                                <Link to="/products" className="text-secondary" style={{ fontWeight: '600' }}>Learn more &rarr;</Link>
                             </div>
                         ))}
                     </div>
